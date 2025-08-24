@@ -1,5 +1,4 @@
 @font-face {
-  font-family: 'Stormning Aesir';
   font-family: 'Stormning Thor';
   src: url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningThor-D8yW.woff2') format('woff2'),
        url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningThor-D8yW.woff') format('woff');
@@ -9,9 +8,7 @@
 }
 
 @font-face {
-  font-family: 'Stormning Aesir';
   font-family: 'Stormning Thor';
-  font-family: 'Stormning Thor Oblique';
 
   src: url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningThorOblique-A1WL.woff2') format('woff2'),
        url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningThorOblique-A1WL.woff') format('woff');
@@ -21,9 +18,7 @@
 }
 
 @font-face {
-  font-family: 'Stormning Aesir';
   font-family: 'Stormning Thor';
-  font-family: 'Stormning Sif';
   src: url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningSif-xIZK.woff2') format('woff2'),
        url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningSif-xIZK.woff') format('woff');
   font-weight: 300;
@@ -32,10 +27,7 @@
 }
 
 @font-face {
-  font-family: 'Stormning Aesir';
   font-family: 'Stormning Thor';
-  font-family: 'Stormning Sif';
-  font-family: 'Stormning Sif Oblique';
   src: url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningSifOblique-pO4K.woff2') format('woff2'),
        url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningSifOblique-pO4K.woff') format('woff');
   font-weight: 300;
@@ -44,9 +36,7 @@
 }
 
 @font-face {
-  font-family: 'Stormning Aesir';
   font-family: 'Stormning Thor';
-  font-family: 'Stormning Odin';
   src: url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StoormningOdin-Ze2m.woff2') format('woff2'),
        url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StoormningOdin-Ze2m.woff') format('woff');
   font-weight: 700;
@@ -55,10 +45,7 @@
 }
 
 @font-face {
-  font-family: 'Stormning Aesir';
   font-family: 'Stormning Thor';
-  font-family: 'Stormning Odin';
-  font-family: 'Stormning Odin Oblique';
   src: url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningOdinOblique-3r8L.woff2') format('woff2'),
        url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningOdinOblique-3r8L.woff') format('woff');
   font-weight: 700;
