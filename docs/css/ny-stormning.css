@@ -1,0 +1,100 @@
+@font-face {
+  font-family: 'Ny Stormning';
+  src: url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormning-yp7M.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormning-yp7M.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Ny Stormning';
+  font-family: 'Ny Stormning Kursiv';
+  src: url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningKursiv-8Ar0.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningKursiv-8Ar0.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Ny Stormning';
+  font-family: 'Ny Stormning Fin';
+  src: url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningFin-9AGL.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningFin-9AGL.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Ny Stormning';
+  font-family: 'Ny Stormning Kursiv';
+  font-family: 'Ny Stormning Fin Kursiv';
+  src: url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningFinKursiv-IJVy.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningFinKursiv-IJVy.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Ny Stormning Gren';
+  src: url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningGren-nJDP.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningGren-nJDP.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Ny Stormning Gren';
+  font-family: 'Ny Stormning Gren Kursiv';
+  src: url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningGrenKursiv-16lg.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningGrenKursiv-16lg.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Ny Stormning';
+  font-family: 'Ny Stormning Halvfet';
+  src: url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningHalvfet-R5nW.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningHalvfet-R5nW.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Ny Stormning';
+  font-family: 'Ny Stormning Kursiv';
+  font-family: 'Ny Stormning Halvfet Kursiv';
+  src: url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningHalvfetKursiv-BAdx.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningHalvfetKursiv-BAdx.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Ny Stormning';
+  font-family: 'Ny Stormning Svart';
+  src: url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningSvart-Y5Vo.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningSvart-Y5Vo.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Ny Stormning';
+  font-family: 'Ny Stormning Kursiv';
+  font-family: 'Ny Stormning Svart Kursiv';
+  src: url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningSvartKursiv-rJ07.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/ny-stormning/NyStormningSvartKursiv-rJ07.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}

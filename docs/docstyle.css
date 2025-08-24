@@ -11,3 +11,13 @@ a, a:link, a:visited {
 a:hover {
   color: hsl(30deg, 100%, 70%);
 }
+
+h4:has(+ pre) {
+  margin-bottom: 1em;
+}
+pre:has(code) {
+  border: .125rem dashed hsl(180deg, 100%, 98%);
+  background-color: hsl(180deg, 55%, 25%);
+  padding: 2em 2em;
+  margin: auto 2em;
+}
