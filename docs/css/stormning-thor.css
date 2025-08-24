@@ -1,0 +1,67 @@
+@font-face {
+  font-family: 'Stormning Aesir';
+  font-family: 'Stormning Thor';
+  src: url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningThor-D8yW.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningThor-D8yW.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Stormning Aesir';
+  font-family: 'Stormning Thor';
+  font-family: 'Stormning Thor Oblique';
+
+  src: url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningThorOblique-A1WL.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningThorOblique-A1WL.woff') format('woff');
+  font-weight: 400;
+  font-style: oblique;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Stormning Aesir';
+  font-family: 'Stormning Thor';
+  font-family: 'Stormning Sif';
+  src: url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningSif-xIZK.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningSif-xIZK.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Stormning Aesir';
+  font-family: 'Stormning Thor';
+  font-family: 'Stormning Sif';
+  font-family: 'Stormning Sif Oblique';
+  src: url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningSifOblique-pO4K.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningSifOblique-pO4K.woff') format('woff');
+  font-weight: 300;
+  font-style: oblique;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Stormning Aesir';
+  font-family: 'Stormning Thor';
+  font-family: 'Stormning Odin';
+  src: url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StoormningOdin-Ze2m.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StoormningOdin-Ze2m.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
+
+@font-face {
+  font-family: 'Stormning Aesir';
+  font-family: 'Stormning Thor';
+  font-family: 'Stormning Odin';
+  font-family: 'Stormning Odin Oblique';
+  src: url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningOdinOblique-3r8L.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/stormning-aesir/StormningOdinOblique-3r8L.woff') format('woff');
+  font-weight: 700;
+  font-style: oblique;
+  unicode-range: U+20, U+2C, U+2E, U+30-3A, U+40-5A, U+61-7A, U+C4-C6, U+D0, U+D6, U+D8, U+DE-DF, U+E4-E6, U+F0, U+F6, U+F8, U+FE, U+014A-014B, U+0152-0153;
+}
