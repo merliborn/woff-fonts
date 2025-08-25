@@ -4,6 +4,8 @@ body {
 
   background-color: hsl(180deg, 100%, 7%);
   color: hsl(180deg, 100%, 98%);
+
+  font-size: min(1rem, max(.875rem, 2vw))
 }
 a, a:link, a:visited {
   color: hsl(120deg, 100%, 70%);
@@ -20,4 +22,14 @@ pre:has(code) {
   background-color: hsl(180deg, 55%, 25%);
   padding: 2em 2em;
   margin: auto 2em;
+
+  overflow-x: auto;
+  scrollbar-width: thin;
+  scrollbar-color: hsl(180deg, 100%, 90%) transparent;
+}
+@media screen and (max-width: 60rem) {
+  pre:has(code) {
+    padding: 2em 1em;
+    overflow-x: scroll;
+  }
 }
