@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="docstyle.css">
   <link rel="stylesheet" href="css/ny-stormning.css">
   <link rel="stylesheet" href="css/stormning-aesir.css">
+  <link rel="stylesheet" href="css/notosans-romannum.css">
   <style>
     div.sample {
       > p {
@@ -24,6 +25,11 @@
     .nystorm { font-family: 'Ny Stormning', sans-serif; }
     .nystormgren { font-family: 'Ny Stormning Gren', sans-serif; }
     .stormthor { font-family: 'Stormning Aesir', sans-serif; }
+    .notosymb { font-family: 'Noto Sans Symbols', sans-serif; }
+
+    section#licenses p {
+      margin-left: 1em;
+    }
   </style>
 </head>
 <body>
@@ -63,9 +69,19 @@
         <h4>読み込みコード</h4>
         <pre><code>@import url('https://merliborn.github.io/woff-fonts/css/stormning-aesir.css');</code></pre>
       </section>
+      <section>
+        <h3>Noto Sans Roman Numerals (Noto Sans Symbols)</h3>
+        <p><a href="https://fonts.google.com/noto/specimen/Noto+Sans+Symbols" target="_blank">Noto Sans Symbols</a>フォントのうち、ローマ数字に対応するU+2160-2188だけを抽出したフォントファイルです。</p>
+        <p>私のスキル上の問題により、ウェイトが可変ではなく100-900の9種類のみになっています。</p>
+        <div class="sample">
+          <p class="notosymb">ⅯⅭⅯⅬⅩⅩⅢ</p>
+        </div>
+        <h4>読み込みコード</h4>
+        <pre><code>@import url('https://merliborn.github.io/woff-fonts/css/notosans-romannum.css');</code></pre>
+      </section>
     </section>
     <hr>
-    <section>
+    <section id="licenses">
       <h2>著作権・ライセンス</h2>
       <p>プロジェクトの全体は merliborn が著作権を保有しており、<a href="license/woff-fonts-license.txt">MITライセンス</a>で公開されています。</p>
       <p>The non-font component, especially .css files, are copyrighted © 2025 merliborn</p>
@@ -75,6 +91,9 @@
       <h3>Stormning Aesir</h3>
       <p>Stormning Aesir フォントは<a href="license/stormning-aesir-license.txt">SIL OFLライセンスv1.1</a>で公開されており、「<strong>Stormning Aesir</strong>」が予約名に指定されています。</p>
       <p>Copyright (c) 2015, Mew Too, Robert Jablonski (Cannot Into Space Fonts), with Reserved Font Name Stormning Aesir.</p>
+      <h3>Noto Sans Symbols</h3>
+      <p>Noto Sans symbols フォントは<a href="license/noto-sans-symbols-license.txt">SIL OFLライセンスv1.1</a>で公開されています。</p>
+      <p>Copyright 2022 The Noto Project Authors (<a href="https://github.com/notofonts/symbols">https://github.com/notofonts/symbols</a>)</p>
     </section>
   </main>
 </body>
