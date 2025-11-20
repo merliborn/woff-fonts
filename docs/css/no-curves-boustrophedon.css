@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'NoCurvesBoustrophedon';
+  src: url('https://merliborn.github.io/woff-fonts/woff/no-curves-boustrophedon/no-curves-boustrophedon.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/no-curves-boustrophedon/no-curves-boustrophedon.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  unicode-range: U+20-23, U+27, U+2C-3C, U+3E-3F, U+41-5A, U+61-7A;
+}
