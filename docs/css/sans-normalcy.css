@@ -4,5 +4,6 @@
        url('https://merliborn.github.io/woff-fonts/woff/sans-normalcy/Sans-Normalcy.woff') format('woff');
   font-weight: 700;
   font-style: normal;
+  font-display: swap;
   unicode-range: U+20-7E, U+A1, U+AA-AB, U+AF-B0, U+B5, U+BA-BB, U+BF-D6, U+D9-DD, U+DF-F6, U+F9-FF;
 }

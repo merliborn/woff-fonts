@@ -4,6 +4,7 @@
        url('https://merliborn.github.io/woff-fonts/woff/noto-roman-numerals/NotoSans-RomanNumerals-Regular.woff') format('woff');
   font-weight: 400;
   font-style: normal;
+  font-display: swap;
   unicode-range: U+2160-2188;
 }
 
@@ -13,6 +14,7 @@
        url('https://merliborn.github.io/woff-fonts/woff/noto-roman-numerals/NotoSans-RomanNumerals-Medium.woff') format('woff');
   font-weight: 500;
   font-style: normal;
+  font-display: swap;
   unicode-range: U+2160-2188;
 }
 
@@ -22,6 +24,7 @@
        url('https://merliborn.github.io/woff-fonts/woff/noto-roman-numerals/NotoSans-RomanNumerals-SemiBold.woff') format('woff');
   font-weight: 600;
   font-style: normal;
+  font-display: swap;
   unicode-range: U+2160-2188;
 }
 
@@ -31,6 +34,7 @@
        url('https://merliborn.github.io/woff-fonts/woff/noto-roman-numerals/NotoSans-RomanNumerals-Bold.woff') format('woff');
   font-weight: 700;
   font-style: normal;
+  font-display: swap;
   unicode-range: U+2160-2188;
 }
 
@@ -40,6 +44,7 @@
        url('https://merliborn.github.io/woff-fonts/woff/noto-roman-numerals/NotoSans-RomanNumerals-ExtraBold.woff') format('woff');
   font-weight: 800;
   font-style: normal;
+  font-display: swap;
   unicode-range: U+2160-2188;
 }
 
@@ -49,6 +54,7 @@
        url('https://merliborn.github.io/woff-fonts/woff/noto-roman-numerals/NotoSans-RomanNumerals-Black.woff') format('woff');
   font-weight: 900;
   font-style: normal;
+  font-display: swap;
   unicode-range: U+2160-2188;
 }
 
@@ -58,6 +64,7 @@
        url('https://merliborn.github.io/woff-fonts/woff/noto-roman-numerals/NotoSans-RomanNumerals-Light.woff') format('woff');
   font-weight: 300;
   font-style: normal;
+  font-display: swap;
   unicode-range: U+2160-2188;
 }
 
@@ -67,6 +74,7 @@
        url('https://merliborn.github.io/woff-fonts/woff/noto-roman-numerals/NotoSans-RomanNumerals-ExtraLight.woff') format('woff');
   font-weight: 200;
   font-style: normal;
+  font-display: swap;
   unicode-range: U+2160-2188;
 }
 
@@ -76,5 +84,6 @@
        url('https://merliborn.github.io/woff-fonts/woff/noto-roman-numerals/NotoSans-RomanNumerals-Thin.woff') format('woff');
   font-weight: 100;
   font-style: normal;
+  font-display: swap;
   unicode-range: U+2160-2188;
 }
