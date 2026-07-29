@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Sans Normalcy';
-  src: url('https://merliborn.github.io/woff-fonts/woff/sans-normalcy/sans-normalcy.woff2') format('woff2'),
-       url('https://merliborn.github.io/woff-fonts/woff/sans-normalcy/sans-normalcy.woff') format('woff');
+  src: url('https://merliborn.github.io/woff-fonts/woff/sans-normalcy/Sans-Normalcy.woff2') format('woff2'),
+       url('https://merliborn.github.io/woff-fonts/woff/sans-normalcy/Sans-Normalcy.woff') format('woff');
   font-weight: 700;
   font-style: normal;
   unicode-range: U+20-7E, U+A1, U+AA-AB, U+AF-B0, U+B5, U+BA-BB, U+BF-D6, U+D9-DD, U+DF-F6, U+F9-FF;
